@@ -1,0 +1,33 @@
+{
+  "properties": [
+    {
+      "name": "spring.application.datasource.url",
+      "type": "java.lang.String",
+      "description": "Description for spring.application.datasource.url."
+    },
+    {
+      "name": "spring.application.datasource.username",
+      "type": "java.lang.String",
+      "description": "Description for spring.application.datasource.username."
+    },
+    {
+      "name": "spring.application.datasource.password",
+      "type": "java.lang.String",
+      "description": "Description for spring.application.datasource.password."
+    },
+    {
+      "name": "spring.application.datasource.driver-class-name",
+      "type": "java.lang.String",
+      "description": "Description for spring.application.datasource.driver-class-name."
+    },
+    {
+      "name": "spring.application.datasource.jpa.hibernate.ddl-auto",
+      "type": "java.lang.String",
+      "description": "Description for spring.application.datasource.jpa.hibernate.ddl-auto."
+    },
+    {
+      "name": "spring.application.datasource.jpa.hibernate.server.port",
+      "type": "java.lang.String",
+      "description": "Description for spring.application.datasource.jpa.hibernate.server.port."
+    }
+  ] }
